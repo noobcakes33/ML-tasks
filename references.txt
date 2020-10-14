@@ -1,0 +1,16 @@
+## References:
+https://scikit-learn.org/stable/auto_examples/linear_model/plot_ols.html
+https://scikit-learn.org/stable/modules/sgd.html
+https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDRegressor.html
+https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html
+https://scikit-learn.org/stable/modules/cross_validation.html
+https://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html#sklearn.svm.LinearSVC
+https://scikit-learn.org/stable/modules/naive_bayes.html
+https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html
+https://towardsdatascience.com/linear-regression-cost-function-gradient-descent-normal-equations-1d2a6c878e2c
+https://stackoverflow.com/questions/32274474/machine-learning-linear-regression-using-batch-gradient-descent
+https://stackoverflow.com/questions/46586520/normal-equation-implementation-in-python-numpy
+https://towardsdatascience.com/gradient-descent-in-python-a0d07285742f
+https://pythonspot.com/matplotlib-scatterplot/
+https://stats.stackexchange.com/questions/338844/sklearn-linear-regression-vs-batch-gradient-descent
+
